@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=306998&width=435&lines=Лабораторная+работа+2" alt="lab header" />
-</div>
+<h1 style="color:#306998;">Лабораторная работа 2</h1>
 
 <p>
   <img src="https://www.python.org/static/community_logos/python-logo.png"
